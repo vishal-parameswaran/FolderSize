@@ -1,0 +1,9 @@
+C:\Users\vishal.parameswaran\Desktop\FolderSize\bin\Debug\netstandard2.0\FolderSize.deps.json
+C:\Users\vishal.parameswaran\Desktop\FolderSize\bin\Debug\netstandard2.0\FolderSize.dll
+C:\Users\vishal.parameswaran\Desktop\FolderSize\bin\Debug\netstandard2.0\FolderSize.pdb
+C:\Users\vishal.parameswaran\Desktop\FolderSize\obj\Debug\netstandard2.0\FolderSize.csprojAssemblyReference.cache
+C:\Users\vishal.parameswaran\Desktop\FolderSize\obj\Debug\netstandard2.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\vishal.parameswaran\Desktop\FolderSize\obj\Debug\netstandard2.0\FolderSize.AssemblyInfoInputs.cache
+C:\Users\vishal.parameswaran\Desktop\FolderSize\obj\Debug\netstandard2.0\FolderSize.AssemblyInfo.cs
+C:\Users\vishal.parameswaran\Desktop\FolderSize\obj\Debug\netstandard2.0\FolderSize.dll
+C:\Users\vishal.parameswaran\Desktop\FolderSize\obj\Debug\netstandard2.0\FolderSize.pdb
